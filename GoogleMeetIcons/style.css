@@ -1,0 +1,25 @@
+body{
+    width:900px;
+    display:flex;
+    position: relative;
+    top:250px;
+    left:18%;
+}
+.container{
+    height:100px;
+    width:900px;
+    background-color: black;
+    color:white;
+    display:flex;
+    justify-content: space-around;
+    position: relative;
+    justify-items: center;
+    align-items: center;  
+}
+.ch{
+    width:10%;
+}
+span{
+    padding-left:20px;
+}
+
